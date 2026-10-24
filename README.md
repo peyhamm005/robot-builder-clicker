@@ -1,4 +1,4 @@
-# Robot Builder Clicker
+Robot Builder Clicker
 ⭐INSTRUCTIONS⭐
 Start from a battery, and get up to a full-sized robot mech!! Click the battery to receive 1 power. Every 100 power your robot will upgrade. Try to make it to 500 for the ultimate robot mech!
 -------------------------------------------------------------------------
