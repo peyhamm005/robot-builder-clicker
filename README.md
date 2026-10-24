@@ -5,3 +5,6 @@ Once upon a time, one man found a PKCell AAA Ultra Heavy Duty battery laying on 
 
 # To download:
 Download the latest release, extract the zip file, and run Robot Builder Clicker.exe. No install required. The game will begin in fullscreen. To exit fullscreen, press Escape. To exit the game, press Escape again.
+
+# Want to make a fork?
+If you want to make a fork, fork the project, then download all of the asset files (excluding README.md), add them to a zip file (with no folders!) then rename .zip to .sb3 and add it to the Scratch offline editor (you can download it from the Microsoft Store). You can add features that way.
